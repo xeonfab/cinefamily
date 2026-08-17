@@ -1,0 +1,23 @@
+{
+  "name": "cinefamily",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeonfab/cinefamily.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeonfab/cinefamily/issues"
+  },
+  "homepage": "https://github.com/xeonfab/cinefamily#readme",
+  "dependencies": {
+    "@watchmode/api-client": "^1.0.1"
+  }
+}
